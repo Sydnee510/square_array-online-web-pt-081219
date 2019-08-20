@@ -5,6 +5,6 @@ def square_array(array)
   array.each do |numbers|
   puts numbers ** 2
   #counter += 1
-  
+  new_array<<
    end
 end
